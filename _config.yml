@@ -1,5 +1,1 @@
-title: "! zeynep"
-description: "Kişisel profil sayfası"
-baseurl: ""
-url: "https://zeynep.github.io"  # GitHub kullanıcı adını buraya yaz
-theme: minima
+theme: null
